@@ -1,10 +1,6 @@
 # Sweet Pink theme for Home Assistant
 
-Theme for home assistant that makes use of pinks and purples and maybe some teal
-
-# WIP
-
-Stay tuned for more customizations, fancy javascript, and maybe even a background
+Theme for home assistant that makes use of pinks and purples and maybe even some teal. A few custom fonts, take them out if you want! (Uses Lato by default, and if not available Raileway or Roboto)
 
 # HACS
 
@@ -26,11 +22,6 @@ Hacker Elite meets Moog Synths meets Miami Vice tempered towards a masculine und
 
 @estiens, @ludeeus
 
-# Screenshots
+# Last Updated
 
-![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/one.png)
-![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/two.png)
-![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/three.png)
-![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/four.png)
-![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/five.png)
-![alt text](https://raw.githubusercontent.com/estiens/sweet_pink_hass_theme/master/_screenshots/seven.png)
+Long overdue in Oct 2024 with a bunch of the new theme vars

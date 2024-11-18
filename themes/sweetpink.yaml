@@ -173,6 +173,7 @@ sweetpink:
   mdc-select-idle-line-color: "var(--primary-color)"
   mdc-select-dropdown-icon-color: "var(--secondary-text-color)"
   mdc-select-hover-line-color: "var(--accent-color)"
+  input-fill-color: "var(--purple)"
 
   # Vaadin elements
   vaadin-text-field-input-line: "var(--primary-color)"

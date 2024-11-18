@@ -20,11 +20,12 @@ Hacker Elite meets Moog Synths meets Miami Vice tempered towards a masculine und
 
 # Contributors
 
-@estiens, @ludeeus
+@estiens, @ludeeus, @milperks
 
 # Last Updated
 
 Long overdue in Oct 2024 with a bunch of the new theme vars
+Nov 18th v 1.1 (fixups for a couple missing styles and a duplicate YML key)
 
 --
 

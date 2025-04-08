@@ -24,7 +24,7 @@ sweetpink:
   horizontal-stack-card-margin: 0px 8px
   vertical-stack-card-margin: 8px 0px
   grid-card-gap: 16px
-  ha-card-border-width: "0px" # Removes default 1px line
+  ha-card-border-width: 0px 
   ha-card-border-radius: 16px
 
   # Fonts

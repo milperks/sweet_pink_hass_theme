@@ -183,3 +183,7 @@ sweetpink:
 
   # Markdown
   markdown-code-background-color: "var(--secondary-background-color)"
+
+  # Main page header
+  app-header-background-color: "var(--pink)"
+  app-header-text-color: "var(--white)"
